@@ -6,3 +6,5 @@ int b = 1;
 print(a+b);
 int c ;
 c=a+b;
+int d;
+d=c+b
