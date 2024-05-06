@@ -8,3 +8,5 @@ int c ;
 c=a+b;
 int d;
 d=c+b
+int e =5;
+d=e;
